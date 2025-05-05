@@ -5,6 +5,5 @@ set -e
 docker docker pull akhileshsoni/sample-python-flask-project
 
 # Run the Docker image as a container
-#commitmonday
-
+#commit tusday
 docker run -d -p 5000:5000 akhileshsoni/sample-python-flask-project
