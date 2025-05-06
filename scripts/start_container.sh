@@ -2,7 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
-docker docker pull akhileshsoni/sample-python-flask-project
+docker pull akhileshsoni/sample-python-flask-project
 
 # Run the Docker image as a container
 #commit tusday
